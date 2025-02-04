@@ -1,5 +1,4 @@
-# A Tourist Management System using QT with C++, integrated with a database. This project involved working with classes and data structures to create a seamless user experience.
-# The system consists of 5 main pages:
+# A Tourist Management System using QT with C++
  ##1. The Main Page - Central hub for navigation.
  ##2 . Add Package Page - Easily add new travel packages.
  ##3 . Find Package Page - Search for packages using the package name.

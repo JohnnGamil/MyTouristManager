@@ -1,0 +1,12 @@
+debug/addpackage.o
+debug/findpackage.o
+debug/findtourist.o
+debug/main.o
+debug/mainwindow.o
+debug/registertourist.o
+debug/qrc_backgroundMain.o
+debug/moc_addpackage.o
+debug/moc_findpackage.o
+debug/moc_findtourist.o
+debug/moc_mainwindow.o
+debug/moc_registertourist.o

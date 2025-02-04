@@ -1,0 +1,12 @@
+release/addpackage.o
+release/findpackage.o
+release/findtourist.o
+release/main.o
+release/mainwindow.o
+release/registertourist.o
+release/qrc_backgroundMain.o
+release/moc_addpackage.o
+release/moc_findpackage.o
+release/moc_findtourist.o
+release/moc_mainwindow.o
+release/moc_registertourist.o
